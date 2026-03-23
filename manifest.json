@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Google Maps HD Image Downloader",
+  "name": "Google Maps HD Downloader",
   "version": "1.0",
-  "description": "Download Google Maps images at their highest resolution",
+  "description": "Download Google Maps photos and videos at their highest quality",
   "permissions": ["activeTab", "downloads"],
   "action": {
     "default_popup": "popup.html",
