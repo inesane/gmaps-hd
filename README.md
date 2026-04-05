@@ -2,6 +2,8 @@
 
 A Chrome extension that downloads Google Maps photos and videos at their highest available quality.
 
+> **Note:** This extension is not available on the Chrome Web Store. It was rejected because downloading Google Maps media violates Google's Terms of Service. You can still install it manually as an unpacked extension for personal use — but be aware that doing so may conflict with Google Maps ToS.
+
 ## Features
 
 - **Download HD photos** — Replaces Google's size-limited URL parameters with `=s0` to fetch the original full-resolution image
@@ -9,7 +11,7 @@ A Chrome extension that downloads Google Maps photos and videos at their highest
 - **Automatic detection** — Detects whether you're viewing a photo or video and adjusts the download button accordingly
 - **Multiple detection strategies** — Parses the Maps URL, scans `<img>` tags, background images, and `<video>` elements to find media on any page layout (place pages, contributor profiles, photo viewer)
 
-## Install
+## Install (manual / unpacked)
 
 1. Clone this repo
 2. Go to `chrome://extensions/`

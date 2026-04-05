@@ -3,7 +3,7 @@
   "name": "Google Maps HD Downloader",
   "version": "1.0",
   "description": "Download Google Maps photos and videos at their highest quality",
-  "permissions": ["activeTab", "downloads"],
+  "permissions": ["downloads"],
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
